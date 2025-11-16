@@ -1,0 +1,5 @@
+CentroA;Puerto Montt;850.5
+CentroB;Calbuco;1200.0
+CentroC;Chiloé;950.0
+CentroD;Ancud;2000.3
+CentroE;Quellón;1750.7
