@@ -1,0 +1,2 @@
+María Torres,22334455-6,Calle Marina,12,Puerto Montt,Premium
+Pedro Fuentes,33445566-7,Avenida Lago,34,Puerto Montt,Regular

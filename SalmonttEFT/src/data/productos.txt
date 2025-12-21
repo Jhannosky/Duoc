@@ -1,0 +1,3 @@
+Salmón Atlantico,100,1200
+Trucha Arcoíris,50,900
+Alimento Pelet,200,150

@@ -1,0 +1,2 @@
+Salmontt Foods,44556677-8,Avenida Mar,56,Puerto Montt,Pescados
+Oceanic Supplies,55667788-9,Calle Bahía,78,Puerto Montt,Alimentos

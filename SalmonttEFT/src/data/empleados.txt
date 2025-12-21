@@ -1,0 +1,3 @@
+Juan Pérez,12345678-9,Calle Falsa,123,Puerto Montt,Gerente
+Ana Gómez,98765432-1,Avenida Siempre Viva,45,Puerto Montt,Operaria
+Carlos Soto,11223344-5,Calle Larga,78,Puerto Montt,Supervisor
